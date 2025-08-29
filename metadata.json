@@ -1,0 +1,5 @@
+{
+  "name": "Parc Platform",
+  "description": "An integrated platform for admins to manage training schedules, materials, and trainers, and for trainers to access their assigned content and schedules.",
+  "requestFramePermissions": []
+}
